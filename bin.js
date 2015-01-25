@@ -35,6 +35,8 @@ if (argv._[0] == "create") {
         inputDirectory = __dirname + '/template/template.js';
 
         cp( inputDirectory, './' + fileName );
+        
+        console.log(fileName + 'has been created.');
     }else{
         console.error('Usage: abcCanvas create [filename]');
     }
