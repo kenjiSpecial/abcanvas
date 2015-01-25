@@ -1,0 +1,7 @@
+{
+  "name": "abCanvasApplication",
+  "description": "abCanvas application",
+  "dependencies": {
+    "canvas-bako": "0.0.3"
+  }
+}
