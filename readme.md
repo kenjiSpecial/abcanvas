@@ -1,4 +1,4 @@
-# wzrd
+# abcanvas
 
 Command-Line Interface for building easy canvas prototype based on [wzrd](https://www.npmjs.com/package/wzrd).
 
